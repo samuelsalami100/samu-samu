@@ -2,4 +2,4 @@
 Repo -Ej-
 
 ## descripción 
-Este es una repo de soydalto, 
+Este es una repo de Samuel, 
